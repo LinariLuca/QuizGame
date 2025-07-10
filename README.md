@@ -33,8 +33,7 @@ No additional libraries are required except the Python standard library (`json`,
 
 ## 💡 How to Run
 
-1. Clone this repository:
+1. Clone this repository at URL: https://github.com/LinariLuca/QuizGame.git
+2. cd quiz-game
 
-   ```bash
-   git clone https://github.com/yourusername/quiz-game
 
