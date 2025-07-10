@@ -31,6 +31,14 @@ No additional libraries are required except the Python standard library (`json`,
 
 ---
 
+## 📬 Contact & Collaboration
+
+For questions, suggestions, or collaborations on this or **other larger projects**, feel free to reach out:
+
+📧 **luca.linari@gmail.com**
+
+---
+
 ## 💡 How to Run
 
 1. Clone this repository at URL: https://github.com/LinariLuca/QuizGame.git
