@@ -16,10 +16,11 @@ This project is a **command-line quiz game** developed in Python. The player can
 
 ## 📂 Project Structure
 quiz-game/
+│
 ├── main.py # Main script to start the game
 ├── ClasseJson.py # Class that handles reading questions from JSON
 ├── question_game.json # JSON file containing all questions and answers
-├── README.md # Project documentation
+└── README.md # Project documentation
 
 ---
 
