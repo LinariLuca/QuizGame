@@ -1,5 +1,7 @@
 # 🧠 Quiz Game in Python
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/downloads/)
+
 This project is a **command-line quiz game** developed in Python. The player can choose between three difficulty levels: **easy**, **medium**, and **hard**. For each level, a random set of questions is selected from a JSON file. At the end of the game, the program calculates and displays the player's score based on the correct answers.
 
 ---
